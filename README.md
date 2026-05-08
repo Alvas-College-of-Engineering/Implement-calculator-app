@@ -1,11 +1,18 @@
 # Java Calculator Application
 
-A simple Java-based Calculator that performs basic arithmetic operations.
+A simple Java-based Calculator Application that performs:
 
-## Features
 - Addition
 - Subtraction
 - Multiplication
-- Division (with divide-by-zero protection)
+- Division
 
-## Project Structure
+## Technologies Used
+- Java
+- OOP Concepts
+- Classes
+- Constructors
+- Methods
+
+## Author
+Prajna P Rao
